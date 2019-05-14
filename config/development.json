@@ -1,0 +1,12 @@
+{
+  "appName": "Hapi-Tutorial",
+  "host": "localhost",
+  "port": "8001",
+  "mongoDb": {
+    "uri": "mongodb://localhost:27017/dev",
+    "port": "27017",
+    "username": "",
+    "password": ""
+  },
+  "secretKey": "ThisIsSecreT&!23#"
+}
